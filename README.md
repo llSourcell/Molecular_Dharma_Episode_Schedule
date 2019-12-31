@@ -1,5 +1,5 @@
 # Molecular_Dharma_Episode_Schedule
-This is the episode schedule for the Molecular Dharma Series by Siraj Raval on Youtube
+This is the episode schedule for the Molecular Dharma Series by Siraj Raval on Youtube. Each of these episodes will be released in order as a Youtube Playlist, starting with [this](https://youtu.be/vu8ZsKK6AWA) video on January 1, 2020. 
 
 ### Episode 1: We Live in a Simulation
 
