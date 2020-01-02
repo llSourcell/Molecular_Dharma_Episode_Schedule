@@ -19,7 +19,7 @@ This is the episode schedule for the Molecular Dharma Series by Siraj Raval on Y
 
 ### Episode 9: CRISPR Design Tutorial
 
-### Episode 10: Applications of the Bhagavad Gita
+### Episode 10: Bioinformatics & Spirituality
 
 ### Episode 11: Genetic Enhancement
 
